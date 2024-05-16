@@ -1,7 +1,8 @@
 ### Hi there 👋
-<img align="right" 
-     src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T6A2PA5835PT17X15Y28D200524004W28218H33866/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/board-blue-computer-pc-admin-core-cpu-nerd-code-mens-t-shirt.jpg" 
-     alt="portfolio" 
+<img align = "right" 
+     width = "350" 
+     src   = "./circuit.png" 
+     alt   = "portfolio" 
 />
 
 ### Welcome To My Repository ![Git Icon](https://img.icons8.com/ios/4294D4/40/github--v1.png)
