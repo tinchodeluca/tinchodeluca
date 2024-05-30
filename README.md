@@ -26,7 +26,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-de-luca)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martindelucadeveloper@gmail.com)
-[![Cafecito](https://img.shields.io/badge/%E2%98%95%20Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://cafecito.app/creative3d)
+[![Cafecito](https://img.shields.io/badge/Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://cafecito.app/creative3d)
 
 ---
  <a href="https://github.com/tinchodeluca/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinchodeluca&layout=compact&theme=jolly&hide_border=true" /></a>
